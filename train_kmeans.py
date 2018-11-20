@@ -13,7 +13,7 @@ NUM_CLUSTER = 3
 # NUM_CLUSTER = 4
 # NUM_CLUSTER = 5
 
-KMEAN_LOOP = 100
+KMEAN_LOOP = 5000
 NUM_SAMPLE = 20
 # NUM_SAMPLE = 100
 RANDOM_STATE = 100
@@ -22,7 +22,8 @@ saveModelsName = 'kmeans_models.sav'
 
 listImage = 'train_Kinect_1.txt'
 # rootDir = '/home/nguyenductrung/darknet/darknet-v2-b/darknet/'
-rootDir = '/Users/trungnd/pfiev/dataset/'
+# rootDir = '/Users/trungnd/pfiev/dataset/'
+rootDir = '/media/trungnd/Data/'
 resultDir = 'result_'+str(NUM_CLUSTER)+'/'
 resultFile = 'result_'+str(NUM_CLUSTER)+'.txt'
 
@@ -100,10 +101,11 @@ print('Calculating Kmeans.....')
 
 # kmeans = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE).fit(image_features)
 
-kmean = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE)
+kmean = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE, max_iter= KMEAN_LOOP)
 kmean.fit_predict(image_features)
 
 pickle.dump(kmean, open(saveModelsName, 'wb'))
+print('Kmeans saved successfully.....')
 # # some time later...
 #
 # # load the model from disk

@@ -13,8 +13,8 @@ NUM_CLUSTER = 3
 # NUM_CLUSTER = 4
 # NUM_CLUSTER = 5
 
-KMEAN_LOOP = 100
-NUM_SAMPLE = 20
+KMEAN_LOOP = 5000
+NUM_SAMPLE = 2040
 # NUM_SAMPLE = 100
 RANDOM_STATE = 100
 
@@ -22,7 +22,9 @@ saveModelsName = 'kmeans_models.sav'
 
 listImage = 'train_Kinect_1.txt'
 # rootDir = '/home/nguyenductrung/darknet/darknet-v2-b/darknet/'
-rootDir = '/Users/trungnd/pfiev/dataset/'
+# rootDir = '/Users/trungnd/pfiev/dataset/'
+rootDir = '/media/trungnd/Data/'
+
 resultDir = 'result_'+str(NUM_CLUSTER)+'/'
 resultFile = 'result_'+str(NUM_CLUSTER)+'.txt'
 
@@ -100,10 +102,8 @@ print('Calculating Kmeans.....')
 
 # kmeans = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE).fit(image_features)
 
-# kmean = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE)
+# kmean = KMeans(n_clusters=NUM_CLUSTER, random_state=RANDOM_STATE, max_iter=KMEAN_LOOP)
 # kmean.fit_predict(image_features)
-#
-
 # pickle.dump(kmean, open(saveModelsName, 'wb'))
 #
 # # some time later...
@@ -117,23 +117,23 @@ labels = kmean.predict(image_features)
 # centers = kmeans.cluster_centers_
 
 # SHOW IMAGE
-# print('Save results ..... ')
-# with open(resultFile, 'a') as result:
-#     for index, x in enumerate(labels.tolist()):
-#         print('Kmean', index, x)
-#         # result.write(image_paths[index] + 'Label: ' + str(x[0]) + '\n')
-#         result.write(image_paths[index] + 'Label: ' + str(x) + '\n')
-#         img_path = image_paths[index]
-#         img_path = img_path.replace('\n', '')
-#         img_path = rootDir+img_path
-#
-#         # directory = resultDir + str(x[0])
-#         directory = resultDir + str(x)
-#         if not os.path.exists(directory):
-#             print('Create directory ', directory)
-#             os.makedirs(directory)
-#         copyfile(img_path, directory + '/' + str(index) + '.jpg')
-# print('Finish ..... ')
+print('Save results ..... ')
+with open(resultFile, 'a') as result:
+    for index, x in enumerate(labels.tolist()):
+        print('Kmean', index, x)
+        # result.write(image_paths[index] + 'Label: ' + str(x[0]) + '\n')
+        result.write(image_paths[index] + 'Label: ' + str(x) + '\n')
+        img_path = image_paths[index]
+        img_path = img_path.replace('\n', '')
+        img_path = rootDir+img_path
+
+        # directory = resultDir + str(x[0])
+        directory = resultDir + str(x)
+        if not os.path.exists(directory):
+            print('Create directory ', directory)
+            os.makedirs(directory)
+        copyfile(img_path, directory + '/' + str(index) + '.jpg')
+print('Finish ..... ')
 
 # Now separate the data, Note the flatten()
 # A = image_features[labels.ravel()==0]

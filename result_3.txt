@@ -38,3 +38,4483 @@ train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2200.jpg
 Label: 0
 train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2250.jpg
 Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3050.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3500.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3700.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3800.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5600.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6550.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6600.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3050.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3500.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3700.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3800.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5600.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6550.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6600.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3050.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3500.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3700.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3800.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4500.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/4950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5600.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6550.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6600.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6650.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/6950.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7200.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8050.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8100.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8200.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8250.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8450.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8550.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8600.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8650.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8750.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8800.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8850.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/8950.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9000.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9100.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9150.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9300.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9350.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9500.jpg
+Label: 0
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9550.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9650.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9700.jpg
+Label: 2
+train_data_server/20171128_Binh_28-11-2017__10-06-34/Kinect_1/9750.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1700.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/1950.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2350.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2500.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2550.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3150.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3500.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3650.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3850.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3900.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4000.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4050.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4250.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4300.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4400.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4450.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4600.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4650.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4750.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4800.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/4950.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5150.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5300.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5350.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5500.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5650.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5700.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6700.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/6950.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7050.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7300.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7450.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7750.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7800.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8000.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8150.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8200.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8350.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8400.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8500.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8550.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8650.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8700.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8750.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8850.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8900.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/8950.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9000.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9050.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9100.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9250.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9300.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9400.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9450.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9550.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9600.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9650.jpg
+Label: 0
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9750.jpg
+Label: 2
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9800.jpg
+Label: 1
+train_data_server/20171128_Phuong_28-11-2017__10-16-52/Kinect_1/9850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10000.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10050.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10100.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10200.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10250.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10300.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10400.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/10450.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2500.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2550.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2600.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3000.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3100.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3550.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3650.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3700.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3750.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/3950.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4050.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4250.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4450.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4500.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4650.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4700.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4750.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/4950.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5100.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5150.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5300.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5350.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5400.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5500.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5550.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5650.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5750.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5850.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5900.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/5950.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6050.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6100.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6150.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6250.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7050.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7200.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7250.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7300.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7400.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7450.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7500.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7600.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7650.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7700.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7800.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8350.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8500.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8600.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8650.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8700.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/8900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9000.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9050.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9150.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9250.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9450.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9550.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9600.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9650.jpg
+Label: 2
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9800.jpg
+Label: 0
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9850.jpg
+Label: 1
+train_data_server/20171128_Thanh_28-11-2017__10-28-36/Kinect_1/9950.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/10000.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/10100.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/10150.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3200.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3300.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3500.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3800.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3900.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4200.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4350.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4500.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4550.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4650.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4750.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/4950.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5000.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5050.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5150.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5200.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5400.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5650.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5750.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5800.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6700.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6800.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6900.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/6950.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7050.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7250.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7300.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/7550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8000.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8050.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8150.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8200.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8250.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8350.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8450.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8500.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8550.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8700.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/8950.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9000.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9100.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9150.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9200.jpg
+Label: 2
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9300.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9450.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9600.jpg
+Label: 1
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9650.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9800.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9850.jpg
+Label: 0
+train_data_server/20171212BuiManhHa_12-12-2017__15-12-44/Kinect_1/9950.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1250.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1300.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1350.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/150.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1600.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1650.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1700.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1850.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/1900.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/2000.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/2050.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/2150.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/600.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/750.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/800.jpg
+Label: 2
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/900.jpg
+Label: 0
+train_data_server/20171212LeThiTuyetcontinue_12-12-2017__15-31-03/Kinect_1/950.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2100.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2150.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2300.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2500.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2550.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2650.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3200.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3300.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3550.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3600.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3650.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3800.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3850.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/3950.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4350.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4400.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4650.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4700.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4750.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/4950.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5050.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5150.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5350.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5400.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5450.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5550.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5600.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5700.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5750.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5800.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/5950.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6350.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6550.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6650.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6700.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/6950.jpg
+Label: 2
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7050.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7200.jpg
+Label: 0
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7250.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7300.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7500.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171212LeThiTuyet_12-12-2017__15-23-10/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10000.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10050.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10100.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10200.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10250.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10300.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10400.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10450.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10550.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10600.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10650.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10750.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10800.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/10850.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/11100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/11150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2700.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3450.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3800.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3850.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/3900.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4050.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4250.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4300.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4350.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4450.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4550.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4650.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4700.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4750.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4850.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/4950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5100.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5150.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5350.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5450.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5500.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5700.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5750.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5850.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/5950.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6050.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6300.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6350.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6400.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6550.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6750.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/6950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7200.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7300.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7400.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7500.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7600.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7650.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7700.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7800.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7850.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/7900.jpg
+Label: 2
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8150.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8250.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8700.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8850.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8900.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/8950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9000.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9050.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9100.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9200.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9250.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9300.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9400.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9450.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9600.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9700.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171212PhamDinhTan_12-12-2017__14-51-18/Kinect_1/9850.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10100.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10150.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10200.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10300.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10350.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/10800.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/11150.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/11200.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2050.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2400.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2600.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2700.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3300.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3400.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3500.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3600.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3800.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3850.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/3900.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4050.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4200.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4300.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4350.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4450.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4800.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/4950.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5150.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5300.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5350.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5500.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5550.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5650.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5700.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5750.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5850.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5900.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/5950.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6550.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6750.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/6900.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7150.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7200.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7300.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7500.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/7550.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8450.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8550.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8600.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8850.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/8950.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9000.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9100.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9150.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9300.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9350.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9500.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9650.jpg
+Label: 1
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9700.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9750.jpg
+Label: 2
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9850.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9900.jpg
+Label: 0
+train_data_server/20171212PhamSonHa_12-12-2017__15-02-35/Kinect_1/9950.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/0.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10050.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10100.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10150.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10250.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10300.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10350.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10450.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10500.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10600.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10650.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10700.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10800.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10850.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/10950.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11000.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11050.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11100.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11200.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11250.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11300.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11400.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11450.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11550.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11600.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11650.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/11750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2450.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/2900.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3450.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3550.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3900.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/3950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4050.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4150.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4300.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4450.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4650.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4800.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/50.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5000.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5150.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5200.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5300.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5350.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5500.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5550.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5850.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5900.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6050.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6100.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6400.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6450.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6550.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6750.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6800.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/6950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7200.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7550.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7600.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8100.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8150.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8200.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8300.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8350.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8450.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8550.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8600.jpg
+Label: 2
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8700.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9300.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9350.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9400.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9500.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9650.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9700.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9750.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9850.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9900.jpg
+Label: 1
+train_data_server/20171214DangVuKien_14-12-2017__09-15-38/Kinect_1/9950.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2150.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2550.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3150.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3450.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3800.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3850.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/3900.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4000.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4050.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4150.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4250.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4300.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4600.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4650.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4700.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4800.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/4900.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5150.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5200.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5250.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5400.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5450.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5500.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5550.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5600.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5800.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5850.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6000.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6200.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6500.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6550.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6650.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6700.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6750.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6850.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/6950.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7000.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7050.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7200.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7250.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7900.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8050.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8100.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8200.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8250.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8450.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8550.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8600.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8650.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8750.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8800.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/8950.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9000.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9100.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9150.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9300.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9350.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9500.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9650.jpg
+Label: 2
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9700.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9850.jpg
+Label: 1
+train_data_server/20171214DaoHoangHiep_14-12-2017__11-02-06/Kinect_1/9900.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10000.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10100.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10150.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10200.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10300.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10350.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10400.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10500.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10550.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10650.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/10750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2400.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2550.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3050.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3300.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3450.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3550.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3850.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3900.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/3950.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4050.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4100.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4250.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4300.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4450.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4600.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4650.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4700.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4800.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4850.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5000.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5100.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5200.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5250.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5300.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5400.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5450.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5500.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5600.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5650.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5800.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5850.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/5900.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6000.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6200.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6250.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6300.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6400.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6450.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/6950.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7050.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7200.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7250.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7300.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7400.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7450.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7550.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7600.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7650.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7750.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7800.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7850.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/7950.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8000.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8300.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8350.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8700.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8900.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/8950.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9050.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9100.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9150.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9250.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9300.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9350.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9450.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9500.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9600.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9650.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9700.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9800.jpg
+Label: 0
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9850.jpg
+Label: 2
+train_data_server/20171214DuongDucTai_14-12-2017__10-51-10/Kinect_1/9900.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/0.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10000.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10050.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10100.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10200.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10250.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10300.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10400.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10450.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10550.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10600.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10650.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10750.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10800.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/10850.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/11000.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/11050.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/11150.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/11250.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/11300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/150.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2000.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2100.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2200.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2550.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2900.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3250.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3450.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3550.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/3950.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4000.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4100.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4150.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4300.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4500.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4550.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4850.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4900.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/4950.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5000.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5050.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5150.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5250.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5350.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5450.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5500.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5550.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5600.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5750.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5800.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5900.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/5950.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6050.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6100.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6250.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6300.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6350.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6450.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6500.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6600.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6650.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/6900.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7000.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7050.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7250.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7450.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7550.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7600.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/7950.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8000.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8100.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8150.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8200.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8350.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8400.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8500.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8550.jpg
+Label: 2
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/8850.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9150.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9200.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9300.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9350.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9400.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9500.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9550.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9650.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9700.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9750.jpg
+Label: 1
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9850.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9900.jpg
+Label: 0
+train_data_server/20171214NguyenLeAnh_14-12-2017__10-16-24/Kinect_1/9950.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/0.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/10000.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/10050.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/10100.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/150.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2250.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2350.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2550.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2800.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3300.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3350.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3450.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3600.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3700.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3800.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3850.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/3900.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4000.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4150.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4200.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4250.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4350.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4400.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4450.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4500.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4550.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4600.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4750.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4800.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4900.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/4950.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/50.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5000.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5100.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5200.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5250.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5300.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5400.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5450.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5550.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5600.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5750.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5800.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/5850.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/600.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6000.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6200.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6400.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6450.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6500.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6550.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6600.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6750.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6800.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6900.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/6950.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7100.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7150.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7200.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7300.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7400.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7700.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/7950.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8050.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8100.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8200.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8250.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8450.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8550.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8600.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8650.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8750.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8800.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8850.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/8950.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9000.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9100.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9150.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9200.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9300.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9350.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9400.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9500.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9650.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9700.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9850.jpg
+Label: 0
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9900.jpg
+Label: 2
+train_data_server/20171214NguyenVanTai_14-12-2017__11-11-35/Kinect_1/9950.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/0.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10000.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10050.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10100.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10200.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10250.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10300.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10400.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10450.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10550.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10600.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10650.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10750.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10800.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/10900.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11000.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11050.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11200.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11250.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11300.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11400.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/11450.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1450.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1600.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1800.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/200.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2350.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2400.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2450.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2500.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2550.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2600.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3100.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3450.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3600.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3800.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3850.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/3900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/400.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4000.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4050.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4150.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4350.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4400.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4450.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4500.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4550.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4600.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4700.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4850.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/4950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/50.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5150.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5350.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5400.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5500.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5550.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5750.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5850.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/5950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6000.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6100.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6250.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6300.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6350.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6450.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/6950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7100.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7200.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7450.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7550.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7600.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7650.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7800.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7850.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/7950.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8000.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8100.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8450.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8700.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8800.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/8950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/900.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9050.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9100.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9150.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9250.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9300.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9350.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9450.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9500.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9600.jpg
+Label: 2
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9650.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9700.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9800.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9850.jpg
+Label: 0
+train_data_server/20171214TranVuKhanh_14-12-2017__10-26-52/Kinect_1/9900.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1000.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10000.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10100.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10150.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10200.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10450.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/10850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1150.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1200.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1350.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/150.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1650.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1750.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1900.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/1950.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2000.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2050.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2200.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2250.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2450.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/250.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2600.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2650.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2750.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2800.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/2950.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3000.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3150.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3200.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3350.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/350.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3550.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3650.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3700.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3750.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3850.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3900.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/3950.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4000.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4050.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4100.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4200.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4250.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4300.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4450.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/450.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4600.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4650.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4750.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4800.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4850.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/4950.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/50.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5050.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5150.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5250.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5350.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5450.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5600.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5650.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5700.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5900.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/5950.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6000.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6050.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6100.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6250.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6350.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6450.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/650.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6600.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6650.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6800.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/6900.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7000.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7050.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7150.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7200.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7250.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7350.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7450.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7500.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7600.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/7750.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/800.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8300.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8350.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8400.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/850.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8500.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8550.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8650.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8700.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8750.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8850.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8900.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/8950.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9000.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9050.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9100.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9200.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9250.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9300.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9400.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9450.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/950.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9550.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9600.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9650.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9750.jpg
+Label: 0
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9800.jpg
+Label: 1
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9850.jpg
+Label: 2
+train_data_server/20171214VuHongSon_14-12-2017__10-06-32/Kinect_1/9950.jpg
+Label: 0

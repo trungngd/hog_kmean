@@ -1,7 +1,6 @@
-*.aiv
+*.avi
 *.jpg
-*.sav
 dnn/*
+*.weights
 dataset*
-yolo/*
 .idea/*

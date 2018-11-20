@@ -1,0 +1,7 @@
+*.aiv
+*.jpg
+*.sav
+dnn/*
+dataset*
+yolo/*
+.idea/*

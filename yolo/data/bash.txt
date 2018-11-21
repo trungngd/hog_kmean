@@ -1,0 +1,1 @@
+./darknet detector train train_data_v2/kinect_v2.data train_data_v2/train_yolo_v2.cfg ./darknet19_448.conv.23 -dont_show

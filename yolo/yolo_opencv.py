@@ -1,13 +1,23 @@
-# This code is written at BigVision LLC. It is based on the OpenCV project. It is subject to the license terms in the LICENSE file found in this distribution and at http://opencv.org/license.html
+# Usage example:  python yolo_opencv.py --video=dataset/color.avi
+#                 python yolo_opencv.py --image=bird.jpg
+# /media/data/datasets/Kinect2017-10/Datasets/20171123_Hung_lan1_23-11-2017__11-05-57/Kinect_1
 
-# Usage example:  python3 object_detection_yolo.py --video=run.mp4
-#                 python3 object_detection_yolo.py --image=bird.jpg
+# cp /media/data/datasets/Kinect2017-10/Datasets/20171123_Hung_lan1_23-11-2017__11-05-57/Kinect_1/color.avi /home/nguyenductrung/hog_kmean/hog_kmean/yolo/dataset
+# cp /home/nguyenductrung/darknet/darknet-v2-b/darknet/train_data_v2/backup_1/train_yolo_v2_10000.weights /home/nguyenductrung/hog_kmean/hog_kmean/yolo/data
+
 
 import cv2 as cv
 import argparse
 import sys
 import numpy as np
 import os.path
+
+from shutil import copyfile
+from matplotlib import pyplot as plt
+import os
+from skimage.feature import hog
+from sklearn.cluster import KMeans
+import pickle
 
 # Initialize the parameters
 confThreshold = 0.5  # Confidence threshold
@@ -21,18 +31,28 @@ parser.add_argument('--video', help='Path to video file.')
 args = parser.parse_args()
 
 # Load names of classes
-classesFile = "coco.names";
+# classesFile = "coco.names";
+classesFile = "data/all.names";
 classes = None
 with open(classesFile, 'rt') as f:
     classes = f.read().rstrip('\n').split('\n')
 
 # Give the configuration and weight files for the model and load the network using them.
-modelConfiguration = "yolov3.cfg";
-modelWeights = "yolov3.weights";
+# modelConfiguration = "yolov3.cfg";
+# modelWeights = "yolov3.weights";
+
+modelConfiguration = "data/valid_yolo_v2.cfg";
+modelWeights = "data/train_yolo_v2_kinect_1.weights";
 
 net = cv.dnn.readNetFromDarknet(modelConfiguration, modelWeights)
 net.setPreferableBackend(cv.dnn.DNN_BACKEND_OPENCV)
-net.setPreferableTarget(cv.dnn.DNN_TARGET_CPU)
+# net.setPreferableTarget(cv.dnn.DNN_TARGET_CPU)
+net.setPreferableTarget(cv.dnn.DNN_TARGET_OPENCL)
+
+# Load kmeans data
+saveModelsName = 'kmeans_models.sav'
+kmeans = pickle.load(open(saveModelsName, 'rb'))
+postureLabels = ['sitting', 'standing', 'lying']
 
 
 # Get the names of the output layers
@@ -42,11 +62,60 @@ def getOutputsNames(net):
     # Get the names of the output layers, i.e. the layers with unconnected outputs
     return [layersNames[i[0] - 1] for i in net.getUnconnectedOutLayers()]
 
+# Calculate HOG feature on bounding box
+
+
+def calculate_hog_feature(classId, conf, left, top, right, bottom):
+
+    x1 = left
+    x2 = right
+    y1=top
+    y2=bottom
+    obj_w = int(x2 - x1)
+    obj_h = int(y2 - y1)
+
+    obj_x = int(x1)
+    obj_y = int(y1)
+    subImg = frame[obj_y: obj_y + obj_h, obj_x: obj_x + obj_w]
+
+    newWidth = 0
+    newHeight = 0
+    fillArear = 0
+
+    if (obj_w > obj_h):
+        newWidth = 128
+        newHeight = int(obj_h / obj_w * 128)
+        fillArear = np.full((newWidth - newHeight, 128, 3), 0)
+    else:
+        newHeight = 128
+        newWidth = int(obj_w / obj_h * 128)
+        fillArear = np.full((128, newHeight - newWidth, 3), 0)
+
+    subImg = cv.resize(frame, (newWidth, newHeight))
+
+    if (newWidth > newHeight):
+        subImg = np.concatenate((subImg, fillArear), axis=0)
+    else:
+        subImg = np.concatenate((subImg, fillArear), axis=1)
+
+    feature, hog_image = hog(subImg, orientations=5, pixels_per_cell=(8, 8),
+                             cells_per_block=(2, 2), visualize=True, multichannel=True,
+                             feature_vector=True, block_norm='L1')
+
+    feature = np.float32(feature)
+    return feature
+
+
 
 # Draw the predicted bounding box
 def drawPred(classId, conf, left, top, right, bottom):
     # Draw a bounding box.
     cv.rectangle(frame, (left, top), (right, bottom), (255, 178, 50), 3)
+
+    hogFeatures = calculate_hog_feature(classId, conf, left, top, right, bottom)
+    postureLabel = kmeans.predict(np.asarray([hogFeatures]))
+
+    postureLabelText = postureLabels[postureLabel[0]]
 
     label = '%.2f' % conf
 
@@ -58,9 +127,16 @@ def drawPred(classId, conf, left, top, right, bottom):
     # Display the label at the top of the bounding box
     labelSize, baseLine = cv.getTextSize(label, cv.FONT_HERSHEY_SIMPLEX, 0.5, 1)
     top = max(top, labelSize[1])
+
+    # Calculate feature
+
+
+
+
     cv.rectangle(frame, (left, top - round(1.5 * labelSize[1])), (left + round(1.5 * labelSize[0]), top + baseLine),
                  (255, 255, 255), cv.FILLED)
-    cv.putText(frame, label, (left, top), cv.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 0), 1)
+    cv.putText(frame, label, (left, top), cv.FONT_HERSHEY_SIMPLEX, 0.75, (0, 0, 0), 2)
+    cv.putText(frame, postureLabelText, (0, 470), cv.FONT_HERSHEY_SIMPLEX, 0.75, (255, 0, 0), 2)
 
 
 # Remove the bounding boxes with low confidence using non-maxima suppression
@@ -106,8 +182,8 @@ def postprocess(frame, outs):
 
 
 # Process inputs
-winName = 'Deep learning object detection in OpenCV'
-cv.namedWindow(winName, cv.WINDOW_NORMAL)
+# winName = 'Deep learning object detection in OpenCV'
+# cv.namedWindow(winName, cv.WINDOW_NORMAL)
 
 outputFile = "yolo_out_py.avi"
 if (args.image):
@@ -168,6 +244,6 @@ while cv.waitKey(1) < 0:
     else:
         vid_writer.write(frame.astype(np.uint8))
 
-    cv.imshow(winName, frame)
+    # cv.imshow(winName, frame)
 
 
